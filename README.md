@@ -1,8 +1,5 @@
 # SentimentStream
-A real-time news aggregator with sentiment analysis, summarizing articles and providing emotional insights using advanced NLP techniques.
-
-# SentimentStream
-
+**SentimentStream** - Real-time news, summarized and sentiment-enhanced.
 SentimentStream is a dynamic news aggregation tool that curates real-time articles from various sources and enhances each story with sentiment analysis. Using advanced natural language processing techniques, SentimentStream provides summaries and sentiment insights for each article, allowing users to quickly gauge the mood of trending topics.
 
 ## Features
@@ -26,10 +23,14 @@ SentimentStream is a dynamic news aggregation tool that curates real-time articl
 ### Files
 - `SentimentStream_Analysis.ipynb`: Jupyter notebook for running the entire pipeline, from data fetching to sentiment analysis and export.
 
+## Reference Data
+- The generated Excel file containing the news articles, summaries, and sentiment analysis can be found in this repository. The file is named `SentimentStream_Results.xlsx`.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any improvements.
+
 
 
